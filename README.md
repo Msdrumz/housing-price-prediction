@@ -46,12 +46,15 @@ A multiple linear regression model was developed to predict housing prices using
 
 ### Square Footage vs Price
 ![Square Footage vs Price](images/square-footage-vs-price.png)
+Strong positive relationship between property size and price.
 
 ### Model Evaluation (Q-Q Plot)
 ![Q-Q Plot](images/qq-plot.png)
+Residual analysis used to evaluate model assumptions and fit.
 
 ### Renovation Quality vs Price
 ![Renovation vs Price](images/renovation-vs-price.png)
+Higher renovation quality correlates with increased property value.
 ---
 ## Project Structure
 housing-price-prediction/
