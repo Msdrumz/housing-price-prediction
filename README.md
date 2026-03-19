@@ -42,9 +42,16 @@ A multiple linear regression model was developed to predict housing prices using
 
 ---
 
-## Visual Outputs
-![Regression Plot](images/regression-plot.png)
+## Visual Analysis
 
+### Square Footage vs Price
+![Square Footage vs Price](images/square-footage-vs-price.png)
+
+### Model Evaluation (Q-Q Plot)
+![Q-Q Plot](images/qq-plot.png)
+
+### Renovation Quality vs Price
+![Renovation vs Price](images/renovation-vs-price.png)
 ---
 ## Project Structure
 housing-price-prediction/
