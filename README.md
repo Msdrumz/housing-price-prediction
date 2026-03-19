@@ -83,4 +83,3 @@ housing-price-prediction/
 Peyton Bailey  
 Data Science Graduate Student  
 
-## Project Structure
