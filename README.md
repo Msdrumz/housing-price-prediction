@@ -55,6 +55,8 @@ Residual analysis used to evaluate model assumptions and fit.
 ### Renovation Quality vs Price
 ![Renovation vs Price](images/renovation-vs-price.png)
 Higher renovation quality correlates with increased property value.
+
+
 ---
 ## Project Structure
 housing-price-prediction/
