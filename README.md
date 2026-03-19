@@ -46,5 +46,26 @@ A multiple linear regression model was developed to predict housing prices using
 ![Regression Plot](images/regression-plot.png)
 
 ---
+## Project Structure
+housing-price-prediction/
+│
+├── README.md
+├── notebook.ipynb
+├── images/
+│ └── regression-plot.png
+
+
+---
+
+## Future Improvements
+- Explore non-linear models for improved accuracy
+- Apply feature engineering for better performance
+- Compare with advanced models (Random Forest, XGBoost)
+
+---
+
+## Author
+Peyton Bailey  
+Data Science Graduate Student  
 
 ## Project Structure
